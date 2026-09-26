@@ -1,8 +1,7 @@
-# COMP 584 - Homework 3
+#  COMP 584 - HW2 Email Campaign
 
-## The Reading Nook Email Campaign
+This is my HW2 email campaign assignment for COMP 584.
 
-Accessibility Report:
-assets/reading_nook_hw3_report.pdf
+## GitHub Pages
 
-added pdf extension in VSCode
+https://lesliecruz4.github.io/hw2/
